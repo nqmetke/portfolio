@@ -1,0 +1,23 @@
+.card{
+   display:flex;
+   border: black solid 1px;
+   width: 100%;
+   justify-content: center;
+   padding: 1rem;
+   flex-direction: column;
+   margin: .25rem;
+   box-shadow: 12px 12px 2px 0px rgba(97, 219, 21, 0.2);
+}
+.cardLong{
+   display:flex;
+   border: black solid 1px;
+   width: 100%; 
+   justify-content: center;
+   padding: 1rem;
+   flex-direction: column;
+   margin: .25rem;
+   box-shadow: 12px 12px 2px 0px rgba(21, 31, 219, 0.2);
+}
+.cardHeader{
+   margin: .25rem;
+}
