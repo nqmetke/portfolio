@@ -6,7 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^4.30.2",
     "clsx": "^1.2.1",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",

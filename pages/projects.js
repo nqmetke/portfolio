@@ -1,7 +1,7 @@
 import Head from 'next/Head';
-import Layout from '../components/layout';
-import Card from '../components/card';
-import Date from '../components/date';
+import Layout from '../components/Layout';
+import Card from '../components/Card';
+import Date from '../components/Date';
 import utilStyles from '../styles/utils.module.css';
 
 

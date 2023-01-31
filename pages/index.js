@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import Card from '../components/card'
-import Date from '../components/date';
-import Layout, { siteTitle } from '../components/layout';
+import Card from '../components/Card'
+import Date from '../components/Date';
+import Layout, { siteTitle } from '../components/Layout';
 import utilStyles from '../styles/utils.module.css';
 import { getSortedPostsData } from '../lib/posts';
 
