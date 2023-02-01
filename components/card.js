@@ -1,4 +1,3 @@
-import { Link } from 'next/link';
 import styles from '../styles/Card.module.css'
 export async function getServerSideProps(context) {
     console.log(context)

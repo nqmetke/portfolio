@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import Link from 'next/link';
+import Head from 'next/Head';
+import Link from 'next/Link';
 import Card from '../components/Card'
 import Date from '../components/Date';
 import Layout, { siteTitle } from '../components/Layout';
