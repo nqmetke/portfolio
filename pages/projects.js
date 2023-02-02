@@ -1,4 +1,4 @@
-import Head from 'next/Head';
+import Head from 'Next/Head';
 import Layout from '../components/Layout';
 import Card from '../components/Card';
 import Date from '../components/Date';
